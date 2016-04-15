@@ -12,6 +12,8 @@ cap = cv2.VideoCapture(data_dir + 'Video 1.avi')
 i=0
 ret, frame = cap.read()
 
+#blahbalh
+
 while(i<1800): #TODO: need to get the number of frames from cap
 
     i = i+1
